@@ -1,0 +1,10 @@
+# Ortak
+node_modules/
+.env
+.DS_Store
+.idea/
+
+
+
+# Node.js için
+server/node_modules/

@@ -1,0 +1,14 @@
+# Ortak
+.DS_Store
+.env
+*.log
+
+# WebStorm
+.idea/
+
+# React frontend
+/reacttoplama/node_modules/
+/reacttoplama/build/
+
+# Node.js backend
+/calculator/node_modules/
